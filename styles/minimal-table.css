@@ -67,4 +67,4 @@ caption {
 }
   
 image {
-	height: 100px;
+	height: 100px !important;
